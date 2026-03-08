@@ -1,0 +1,21 @@
+==================== 2026-02-16T18:18:36.988555Z | dd2a81aa-b2ba-4f2f-8532-455e943ec88b ====================
+18:18:36.988629 [info ]: Starting dbt LSP server
+18:18:36.988667 [info ]: Connecting to LSP client on port 8001
+18:18:36.990180 [info ]: Successfully connected to LSP client
+18:18:36.990195 [info ]: Creating LSP service...
+18:18:37.039390 [info ]: Creating LSP server...
+18:18:37.039411 [info ]: Starting LSP server...
+18:18:37.070932 [info ]: Started loading project
+18:18:37.076309 [info ]: Loading profiles.yml
+18:18:37.088814 [info ]: Finished loading project [  0.02s]
+18:19:07.893953 [info ]: Loading profiles.yml
+==================== 2026-02-18T18:44:51.902280Z | d99fa53a-3a55-4362-8052-75e4ccdb99ec ====================
+18:44:51.902414 [info ]: Starting dbt LSP server
+18:44:51.902498 [info ]: Connecting to LSP client on port 8000
+18:44:51.903835 [info ]: Successfully connected to LSP client
+18:44:51.903844 [info ]: Creating LSP service...
+18:44:51.954822 [info ]: Creating LSP server...
+18:44:51.954839 [info ]: Starting LSP server...
+18:44:51.983169 [info ]: Started loading project
+18:44:51.988054 [info ]: Loading profiles.yml
+18:44:51.989312 [info ]: Finished loading project [  0.01s]
